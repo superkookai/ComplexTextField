@@ -11,6 +11,8 @@
 		BF5830652B8DC58500B0DCA6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF5830642B8DC58500B0DCA6 /* ContentView.swift */; };
 		BF5830672B8DC58600B0DCA6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF5830662B8DC58600B0DCA6 /* Assets.xcassets */; };
 		BF58306B2B8DC58600B0DCA6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF58306A2B8DC58600B0DCA6 /* Preview Assets.xcassets */; };
+		BF5830722B8DC5C700B0DCA6 /* EmailTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF5830712B8DC5C700B0DCA6 /* EmailTextField.swift */; };
+		BF5830742B8DD03D00B0DCA6 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = BF5830732B8DD03D00B0DCA6 /* Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		BF5830662B8DC58600B0DCA6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BF5830682B8DC58600B0DCA6 /* ComplexTextField.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = ComplexTextField.entitlements; sourceTree = "<group>"; };
 		BF58306A2B8DC58600B0DCA6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		BF5830712B8DC5C700B0DCA6 /* EmailTextField.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmailTextField.swift; sourceTree = "<group>"; };
+		BF5830732B8DD03D00B0DCA6 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				BF5830622B8DC58500B0DCA6 /* ComplexTextFieldApp.swift */,
 				BF5830642B8DC58500B0DCA6 /* ContentView.swift */,
+				BF5830712B8DC5C700B0DCA6 /* EmailTextField.swift */,
+				BF5830732B8DD03D00B0DCA6 /* Extension.swift */,
 				BF5830662B8DC58600B0DCA6 /* Assets.xcassets */,
 				BF5830682B8DC58600B0DCA6 /* ComplexTextField.entitlements */,
 				BF5830692B8DC58600B0DCA6 /* Preview Content */,
@@ -141,6 +147,8 @@
 			files = (
 				BF5830652B8DC58500B0DCA6 /* ContentView.swift in Sources */,
 				BF5830632B8DC58500B0DCA6 /* ComplexTextFieldApp.swift in Sources */,
+				BF5830722B8DC5C700B0DCA6 /* EmailTextField.swift in Sources */,
+				BF5830742B8DD03D00B0DCA6 /* Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
